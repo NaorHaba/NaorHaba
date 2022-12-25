@@ -1,5 +1,3 @@
 ### Hi 👋 I'm Naor
 
-I'm a Data Science student 📚 in the Technion, also working as a Data Scientist at Nervio and as a Research Assistant 🔬 in crop yield prediction field. <br>
-Interested in pioneering technologies 🔭 and project promoting, aspiring to manage a project or a department in the future. <br>
-Like playing the guitar 🎸, enjoy scuba-diving 🤿, skiing 🎿 and going to music concerts and festivals 🎙.
+I'm a Deep Learning Engineer at Toluna Corporate with a BSc in Data Science & Engineering from the Technion. I'm passionate about AI, machine learning, and programming, and am always looking for new ways to solve challenging problems in these fields. In the future, I hope to start my own startup or manage a project/department in AI. In my free time, I enjoy playing the guitar 🎸, scuba diving 🤿, skiing 🎿, and going to music concerts and festivals 🎙. Follow me on GitHub to see my latest projects and stay updated on my work.
